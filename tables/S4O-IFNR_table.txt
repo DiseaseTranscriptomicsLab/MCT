@@ -1,0 +1,119 @@
+Genes Rank_c3 Rank_c6 gene_label
+Ccl5 4.792 0.068 Cluster 3
+Inhba 2.658 0.63 Common
+Ccrl2 1.415 0.752 Common
+Bst2 1.195 -0.14 Common
+Pdpn 1.001 0.223 Common
+Rgs1 0.978 0.591 Common
+Slc7a2 0.947 -0.007 Cluster 3
+Adgre1 -0.944 -0.059 Cluster 3
+Il7r 0.86 0.27 Common
+Tlr2 0.834 0.264 Common
+Mmp14 0.83 0.693 Common
+Cybb -0.781 -0.103 Cluster 3
+Ptafr 0.763 0.443 Common
+Ptpre -0.723 0.516 Common
+Abi1 0.709 0.206 Common
+Hif1a 0.707 0.528 Common
+Il15ra 0.683 0.038 Cluster 3
+P2rx7 0.683 0.058 Cluster 3
+Irf7 0.677 0.145 Common
+P2rx4 0.646 -0.027 Cluster 3
+Ccr7 0.628 0.311 Common
+Cd40 0.608 -0.082 Cluster 3
+Clec5a 0.607 0.098 Cluster 3
+Klf6 0.591 0.549 Common
+Il10ra -0.566 0.477 Common
+Ahr -0.564 0.254 Common
+Lyn -0.543 0.052 Cluster 3
+Btg2 -0.528 0.809 Common
+Icam1 0.521 0.151 Common
+Rtp4 0.521 0.441 Common
+Met 0.507 -0.015 Cluster 3
+Il1a 0.499 0.524 Common
+Edn1 0.495 0.246 Common
+Cxcl9 0.489 0.008 Cluster 3
+Ldlr -0.488 0.251 Common
+Gpr183 -0.48 0.172 Common
+Nlrp3 0.471 1.007 Common
+Tapbp 0.456 0.131 Common
+Il18 -0.421 0.014 Cluster 3
+Nampt 0.409 0.575 Common
+Osm 0.389 0.965 Common
+Ccl22 0.384 0.193 Common
+Lpar1 0.381 0.057 Cluster 3
+Nfkbia 0.366 0.472 Common
+Ifitm1 -0.362 1.613 Common
+Cdkn1a 0.355 0.696 Common
+Tnfrsf1b 0.351 0.409 Common
+Nfkb1 -0.351 0.495 Common
+Ccl2 -0.34 1.252 Common
+Slc1a2 0.325 -0.032 Cluster 3
+Abca1 0.314 0.254 Common
+Irf1 0.314 0.16 Common
+Lcp2 -0.311 0.32 Common
+Mefv -0.302 0.268 Common
+Sell -0.301 0.255 Common
+C5ar1 -0.294 0.559 Common
+Adora2b -0.285 0.124 Common
+C3ar1 -0.274 0.473 Common
+Slc28a2 0.272 0.245 Common
+Emp3 -0.269 -0.635 Common
+Il15 -0.266 0.571 Common
+Sema4d 0.257 0.266 Common
+Tnfrsf9 0.246 0.13 Common
+Stab1 0.238 0.084 Cluster 3
+Ccl7 -0.214 1.352 Common
+Il1b -0.212 2.023 Common
+Rasgrp1 0.211 0.071 Cluster 3
+Raf1 0.2 0.13 Common
+Timp1 0.188 0.157 Common
+Gch1 0.187 0.061 Cluster 3
+Olr1 0.184 0.129 Common
+Sri -0.183 -0.163 Common
+Ptger4 -0.181 0.332 Common
+Cd48 -0.164 -0.124 Common
+Slamf1 0.162 -0.019 Cluster 3
+Atp2c1 -0.157 0.028 Cluster 3
+Ly6e 0.15 -0.217 Common
+Pde4b -0.147 0.875 Common
+Sgms2 0.144 0.345 Common
+Ripk2 0.143 0.022 Cluster 3
+Gpr132 -0.137 0.303 Common
+Pik3r5 0.137 0.036 Cluster 3
+Selenos -0.136 0.031 Cluster 3
+Tnfaip6 0.135 0.257 Common
+Plaur -0.134 0.158 Common
+Msr1 -0.133 0.168 Common
+Mxd1 -0.095 1.122 Cluster 6
+Cxcl10 -0.052 1.085 Cluster 6
+Csf3r -0.01 0.757 Cluster 6
+Csf1 0.009 0.699 Cluster 6
+Hbegf -0.095 0.54 Cluster 6
+Il4ra 0.063 0.509 Cluster 6
+Irak2 -0.075 0.449 Cluster 6
+Cd69 0.038 0.386 Cluster 6
+Ccl24 -0.097 0.369 Cluster 6
+Fpr1 0.094 0.347 Cluster 6
+Slc31a2 0.057 0.291 Cluster 6
+Ifnar1 -0.025 0.29 Cluster 6
+Eif2ak2 -0.126 0.253 Cluster 6
+F3 0.023 0.236 Cluster 6
+Cd14 0.099 0.218 Cluster 6
+Gnai3 -0.006 0.211 Cluster 6
+Atp2b1 0.046 0.198 Cluster 6
+Il18rap -0.079 0.196 Cluster 6
+Ffar2 0.013 0.178 Cluster 6
+Cmklr1 -0.041 0.176 Cluster 6
+Cd82 0.032 0.175 Cluster 6
+Tnfsf9 0.061 0.175 Cluster 6
+Icosl -0.084 0.164 Cluster 6
+Rhog -0.026 0.158 Cluster 6
+Rela 0.061 0.149 Cluster 6
+Sphk1 0.032 0.139 Cluster 6
+Il6 0.046 0.136 Cluster 6
+Atp2a2 -0.068 0.135 Cluster 6
+Nod2 -0.08 0.127 Cluster 6
+Slc7a1 -0.06 0.126 Cluster 6
+Slc31a1 -0.1 0.126 Cluster 6
+Pvr 0.009 0.123 Cluster 6

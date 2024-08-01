@@ -1,0 +1,153 @@
+Genes Rank_c3 Rank_c6 gene_label
+Ccl5 4.792 0.068 Cluster 3
+Inhba 2.658 0.63 Common
+Ccrl2 1.415 0.752 Common
+Cxcl2 1.361 2.501 Common
+Ptgs2 1.112 1.773 Common
+Sod2 1.021 -0.017 Cluster 3
+Sqstm1 0.997 0.098 Cluster 3
+Il7r 0.86 0.27 Common
+Tlr2 0.834 0.264 Common
+Tnfaip3 0.825 0.908 Common
+Klf2 -0.789 1.173 Common
+Dusp1 0.788 1.154 Common
+Pnrc1 0.739 0.428 Common
+Ptpre -0.723 0.516 Common
+Ccnd1 -0.703 0.335 Common
+Nr4a1 -0.703 0.842 Common
+Tgif1 0.703 0.165 Common
+Il15ra 0.683 0.038 Cluster 3
+Dram1 0.655 -0.019 Cluster 3
+Cd44 -0.638 0.318 Common
+Ier3 0.632 0.978 Common
+Gadd45b 0.627 0.592 Common
+Ninj1 0.615 0.031 Cluster 3
+Tank 0.609 0.106 Cluster 3
+Bcl2a1a 0.606 0.376 Common
+Klf6 0.591 0.549 Common
+Nr4a2 -0.582 0.131 Common
+Bhlhe40 0.547 0.472 Common
+Btg2 -0.528 0.809 Common
+Icam1 0.521 0.151 Common
+Nfe2l2 -0.509 0.419 Common
+Il1a 0.499 0.524 Common
+Edn1 0.495 0.246 Common
+Ldlr -0.488 0.251 Common
+Traf1 0.482 0.334 Common
+Gpr183 -0.48 0.172 Common
+Id2 0.471 0.518 Common
+Cd83 -0.468 0.224 Common
+Vegfa 0.468 0.584 Common
+Nfkb2 0.466 -0.028 Cluster 3
+Marcks -0.465 0.982 Common
+Ccl4 0.463 2.252 Common
+Nfat5 0.46 0.5 Common
+Ppp1r15a 0.454 0.82 Common
+Nfkbie 0.441 0.176 Common
+Map3k8 -0.429 0.5 Common
+Il18 -0.421 0.014 Cluster 3
+Nampt 0.409 0.575 Common
+Ets2 0.394 0.961 Common
+Cebpb 0.391 0.245 Common
+Egr2 0.373 0.326 Common
+Jag1 0.369 0.051 Cluster 3
+Tiparp 0.366 0.523 Common
+Nfkbia 0.366 0.472 Common
+Ifih1 0.365 0.183 Common
+Mcl1 0.362 0.368 Common
+Maff 0.361 0.446 Common
+Pfkfb3 0.361 0.337 Common
+Cdkn1a 0.355 0.696 Common
+Nfkb1 -0.351 0.495 Common
+Tnip1 0.348 0.17 Common
+Ccl2 -0.34 1.252 Common
+Tnfaip2 0.329 0.756 Common
+Plek -0.328 0.622 Common
+Btg1 0.326 0.454 Common
+Ehd1 0.316 0.265 Common
+Abca1 0.314 0.254 Common
+Irf1 0.314 0.16 Common
+Jun -0.304 0.792 Common
+Irs2 0.298 0.324 Common
+Tubb2a 0.287 0.018 Cluster 3
+Tap1 0.284 -0.055 Cluster 3
+Cflar 0.273 0.416 Common
+Rnf19b 0.272 0.45 Common
+Sat1 -0.271 0.316 Common
+Nr4a3 0.267 0.357 Common
+Zfp36 0.267 0.856 Common
+Junb 0.255 0.677 Common
+Tnfrsf9 0.246 0.13 Common
+Relb 0.244 0.068 Cluster 3
+Bcl6 0.241 0.178 Common
+Plk2 0.24 0.354 Common
+Sdc4 0.239 1.018 Common
+Litaf 0.232 0.328 Common
+Sgk1 0.222 0.245 Common
+Cebpd -0.22 0.174 Common
+Kdm6b -0.217 0.402 Common
+Per1 0.216 0.535 Common
+Serpinb8 -0.216 -0.048 Cluster 3
+Il1b -0.212 2.023 Common
+Pdlim5 -0.202 0.156 Common
+Rel -0.193 0.398 Common
+B4galt1 0.19 0.168 Common
+Gem 0.188 0.015 Cluster 3
+Gch1 0.187 0.061 Cluster 3
+Olr1 0.184 0.129 Common
+Ptger4 -0.181 0.332 Common
+Zc3h12a -0.179 0.336 Common
+Nfil3 0.179 0.653 Common
+Fosl2 -0.172 0.728 Common
+Ier5 0.172 0.622 Common
+Hes1 -0.17 0.08 Cluster 3
+Ier2 -0.165 0.468 Common
+Klf10 -0.165 0.183 Common
+Smad3 -0.16 0.133 Common
+Il6st -0.158 0.099 Cluster 3
+Cxcl3 -0.071 2.163 Cluster 6
+G0s2 -0.057 1.175 Cluster 6
+Mxd1 -0.095 1.122 Cluster 6
+Cxcl10 -0.052 1.085 Cluster 6
+Egr1 -0.139 0.957 Cluster 6
+Trib1 -0.094 0.956 Cluster 6
+Dusp5 -0.019 0.903 Cluster 6
+Pde4b -0.147 0.875 Cluster 6
+Fos 0.122 0.869 Cluster 6
+Rhob -0.051 0.857 Cluster 6
+Gadd45a 0.052 0.821 Cluster 6
+Ifit2 -0.038 0.771 Cluster 6
+Csf1 0.009 0.699 Cluster 6
+Phlda1 -0.109 0.624 Cluster 6
+Hbegf -0.095 0.54 Cluster 6
+Ccnl1 0.127 0.524 Cluster 6
+Tnf 0.075 0.492 Cluster 6
+Atf3 0.023 0.483 Cluster 6
+Fosb 0.006 0.418 Cluster 6
+Birc3 -0.051 0.395 Cluster 6
+Cd69 0.038 0.386 Cluster 6
+Cd80 0.098 0.371 Cluster 6
+Slc2a3 -0.03 0.294 Cluster 6
+Birc2 0.08 0.277 Cluster 6
+Dusp2 0.13 0.261 Cluster 6
+Tnfaip6 0.135 0.257 Cluster 6
+Socs3 0.14 0.244 Cluster 6
+F3 0.023 0.236 Cluster 6
+Klf4 0 0.232 Cluster 6
+Cxcl1 -0.019 0.228 Cluster 6
+Sik1 0.13 0.225 Cluster 6
+Atp2b1 0.046 0.198 Cluster 6
+B4galt5 -0.026 0.195 Cluster 6
+Dennd5a 0.077 0.181 Cluster 6
+Tnfaip8 -0.113 0.175 Cluster 6
+Tnfsf9 0.061 0.175 Cluster 6
+Icosl -0.084 0.164 Cluster 6
+Slc16a6 -0.124 0.16 Cluster 6
+Plaur -0.134 0.158 Cluster 6
+Rela 0.061 0.149 Cluster 6
+Areg 0.035 0.145 Cluster 6
+Klf9 -0.045 0.142 Cluster 6
+Bcl3 -0.083 0.141 Cluster 6
+Sphk1 0.032 0.139 Cluster 6
+Il6 0.046 0.136 Cluster 6
+Clcf1 0.013 0.132 Cluster 6
