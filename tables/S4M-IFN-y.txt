@@ -1,0 +1,148 @@
+Genes Rank_c3 Rank_c1 gene_label
+Ccl5 4.792 -1.398 Common
+Cfb 1.788 -0.434 Common
+H2-Q7 1.712 -1.493 Common
+Ifitm2 -1.294 1.004 Common
+Bst2 1.195 0.48 Common
+Ptgs2 1.112 -0.436 Common
+Rsad2 1.048 1.577 Common
+Cd274 1.027 0.018 Cluster 3
+Sod2 1.021 -0.152 Cluster 3
+Oasl1 0.99 0.442 Common
+B2m 0.986 -0.269 Common
+Cd38 0.972 -0.249 Common
+Isg20 0.925 0.854 Common
+Slamf7 0.831 -0.369 Common
+Tnfaip3 0.825 -0.518 Common
+Xaf1 0.805 0.617 Common
+Lgals3bp 0.794 0.163 Common
+Il18bp 0.773 -0.273 Common
+Herc6 0.767 0.577 Common
+Arid5b 0.715 -0.016 Cluster 3
+Hif1a 0.707 0.197 Common
+H2-D1 0.699 -0.046 Cluster 3
+Il15ra 0.683 0.123 Cluster 3
+Irf7 0.677 0.994 Common
+Rnf213 0.635 0.896 Common
+Ddx60 0.614 -0.018 Cluster 3
+Cd40 0.608 0.236 Common
+Vcam1 0.589 -0.209 Common
+Peli1 0.57 -0.078 Cluster 3
+Il10ra -0.566 0.28 Common
+Stat1 0.535 0.352 Common
+H2-Aa 0.527 -1.943 Common
+Icam1 0.521 -0.126 Cluster 3
+Rtp4 0.521 0.679 Common
+H2-Eb1 0.509 -1.829 Common
+Psme2 0.501 0.407 Common
+Cxcl9 0.489 -0.189 Common
+Trim25 -0.489 0.446 Common
+Gbp4 0.476 0.018 Cluster 3
+Stat3 0.465 -0.12 Cluster 3
+Ifit1bl1 0.458 0.276 Common
+Tapbp 0.456 0.538 Common
+Psmb9 0.452 0.582 Common
+Psme1 0.447 0.315 Common
+Pla2g4a 0.439 -0.124 Cluster 3
+Cd86 0.438 0.288 Common
+Ube2l6 0.414 0.638 Common
+Nampt 0.409 0.454 Common
+H2-DMa -0.389 0.163 Common
+St3gal5 0.377 -0.218 Common
+Nfkbia 0.366 0.24 Common
+Ifih1 0.365 0.877 Common
+Cdkn1a 0.355 0.109 Cluster 3
+Nfkb1 -0.351 0.276 Common
+Ccl2 -0.34 0.788 Common
+Tnfaip2 0.329 -0.351 Common
+Btg1 0.326 0.129 Cluster 3
+Zbp1 0.323 1.032 Common
+Irf8 -0.322 0.184 Common
+Psmb8 0.322 0.683 Common
+Ptpn2 0.32 -0.019 Cluster 3
+Itgb7 -0.316 0.625 Common
+Irf1 0.314 0.069 Cluster 3
+Lcp2 -0.311 0.234 Common
+Parp14 0.305 0.639 Common
+Stat2 0.301 0.488 Common
+Mvp 0.291 0.31 Common
+Helz2 0.284 0.483 Common
+Psmb10 0.284 0.591 Common
+Tap1 0.284 0.639 Common
+Eif4e3 -0.283 0.177 Common
+Myd88 -0.276 0.383 Common
+Csf2rb2 0.268 -0.021 Cluster 3
+Fcgr1 -0.267 1.273 Common
+Il15 -0.266 0.734 Common
+Usp18 0.265 0.581 Common
+Irf2 0.25 0.495 Common
+Vamp8 0.25 0.135 Cluster 3
+Pml -0.241 0.525 Common
+Pnpt1 -0.235 0.275 Common
+Txnip 0.228 -0.065 Cluster 3
+Gbp8 0.218 -0.2 Common
+Psmb2 0.215 0.208 Common
+Ccl7 -0.214 -0.251 Common
+Ogfr 0.211 0.67 Common
+Sp110 -0.208 0.998 Common
+Irf5 -0.204 0.648 Common
+Fas 0.201 0.155 Cluster 3
+Samd9l 0.198 0.619 Common
+Socs1 0.193 -0.027 Cluster 3
+Cfh -0.192 0.279 Common
+Casp7 0.191 0.038 Cluster 3
+Cd74 0.191 -1.751 Common
+Gch1 0.187 0.733 Common
+Sri -0.183 0.356 Common
+Batf2 0.181 0.048 Cluster 3
+Ifi30 0.181 -0.04 Cluster 3
+Gbp3 0.175 0.723 Common
+Isg15 0.175 1.791 Common
+Sppl2a 0.166 0.73 Common
+Ifi35 0.161 0.877 Common
+Ifi44 0.159 -0.007 Cluster 3
+Lap3 -0.158 0.015 Cluster 3
+Ptpn6 -0.158 -0.007 Cluster 3
+Fgl2 -0.155 1.143 Common
+Parp12 0.155 0.611 Common
+Trafd1 0.154 0.784 Common
+Ifi27 -0.151 -0.074 Cluster 3
+Ly6e 0.15 0.629 Common
+Pde4b -0.147 0.083 Cluster 3
+Isoc1 -0.143 0.219 Common
+Ripk2 0.143 0.063 Cluster 3
+Socs3 0.14 0.551 Common
+H2-M3 0.137 -0.132 Cluster 3
+Tnfaip6 0.135 0.217 Common
+Cxcl10 -0.052 1.636 Cluster 1
+Ifit3 0.109 1.561 Cluster 1
+Ifit2 -0.038 1.303 Cluster 1
+Samhd1 -0.087 1.086 Cluster 1
+Ifitm3 -0.013 1.02 Cluster 1
+Cmpk2 -0.078 0.895 Cluster 1
+Epsti1 -0.112 0.867 Cluster 1
+Oas3 0.105 0.827 Cluster 1
+Casp1 -0.105 0.79 Cluster 1
+Nmi 0.113 0.745 Cluster 1
+Dhx58 0.034 0.576 Cluster 1
+Casp4 0.04 0.567 Cluster 1
+Casp3 -0.035 0.527 Cluster 1
+Jak2 -0.002 0.52 Cluster 1
+Casp8 -0.075 0.51 Cluster 1
+Znfx1 -0.009 0.503 Cluster 1
+Pfkp -0.101 0.484 Cluster 1
+Ptpn1 -0.121 0.45 Cluster 1
+Psma3 0.005 0.389 Cluster 1
+Eif2ak2 -0.126 0.381 Cluster 1
+Pim1 -0.046 0.372 Cluster 1
+Psma2 0.113 0.339 Cluster 1
+Oas2 0.051 0.332 Cluster 1
+Gbp9 0.004 0.323 Cluster 1
+Klrk1 -0.008 0.318 Cluster 1
+Nlrc5 0.095 0.282 Cluster 1
+Tdrd7 0.065 0.243 Cluster 1
+Il4ra 0.063 0.227 Cluster 1
+St8sia4 -0.068 -0.187 Cluster 1
+Trim26 -0.049 0.176 Cluster 1
+Nod1 -0.116 0.168 Cluster 1
+Tnfsf10 -0.008 0.164 Cluster 1
