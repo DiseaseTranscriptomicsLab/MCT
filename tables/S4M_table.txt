@@ -1,0 +1,80 @@
+Genes	Rank_c3	Rank_c1	gene_label
+H2-Q7	1.712	-1.493	Common
+Ccrl2	1.415	-0.633	Common
+Ifitm2	-1.294	1.004	Common
+Bst2	1.195	0.48	Common
+Rsad2	1.048	1.577	Common
+Oasl1	0.99	0.442	Common
+B2m	0.986	-0.269	Common
+Isg20	0.925	0.854	Common
+Procr	0.898	-0.384	Common
+Lgals3bp	0.794	0.163	Cluster 3
+Herc6	0.767	0.577	Common
+Irf7	0.677	0.994	Common
+Ddx60	0.614	-0.018	Cluster 3
+Rtp4	0.521	0.679	Common
+Psme2	0.501	0.407	Common
+Trim25	-0.489	0.446	Common
+Psmb9	0.452	0.582	Common
+Psme1	0.447	0.315	Common
+Ube2l6	0.414	0.638	Common
+Cd47	-0.376	0.828	Common
+Ifih1	0.365	0.877	Common
+Ifitm1	-0.362	0.098	Cluster 3
+Psmb8	0.322	0.683	Common
+Irf1	0.314	0.069	Cluster 3
+Parp14	0.305	0.639	Common
+Sell	-0.301	1.543	Common
+Stat2	0.301	0.488	Common
+Helz2	0.284	0.483	Common
+Tap1	0.284	0.639	Common
+Uba7	0.281	0.162	Cluster 3
+Oas1a	-0.268	0.719	Common
+Tmem140	0.268	-0.074	Cluster 3
+Il15	-0.266	0.734	Common
+Usp18	0.265	0.581	Common
+Irf2	0.25	0.495	Common
+Pnpt1	-0.235	0.275	Common
+Txnip	0.228	-0.065	Cluster 3
+Parp9	0.215	0.324	Common
+Ogfr	0.211	0.67	Common
+Sp110	-0.208	0.998	Common
+Samd9l	0.198	0.619	Common
+Cd74	0.191	-1.751	Common
+Gbp2	0.185	1.302	Common
+Batf2	0.181	0.048	Cluster 3
+Ifi30	0.181	-0.04	Cluster 3
+Gbp3	0.175	0.723	Common
+Tent5a	0.175	-0.022	Cluster 3
+Isg15	0.175	1.791	Common
+Ifi35	0.161	0.877	Common
+Nub1	0.16	0.036	Cluster 3
+Ifi44	0.159	-0.007	Cluster 3
+Lap3	-0.158	0.015	Cluster 3
+Parp12	0.155	0.611	Common
+Trafd1	0.154	0.784	Common
+Ifi27	-0.151	-0.074	Cluster 3
+Ly6e	0.15	0.629	Common
+Ripk2	0.143	0.063	Cluster 3
+Oas1g	-0.142	0.209	Common
+Lpar6	-0.136	0.003	Cluster 3
+Eif2ak2	-0.126	0.381	Common
+Mov10	0.12	0.09	Cluster 3
+Nmi	0.113	0.745	Common
+Epsti1	-0.112	0.867	Common
+Elf1	0.111	0.106	Cluster 3
+Trim21	0.11	0.042	Cluster 3
+Ifit3	0.109	1.561	Common
+Casp1	-0.105	0.79	Common
+Irf9	0.105	-0.065	Cluster 3
+Cxcl10	-0.052	1.636	Cluster 1
+Ifit2	-0.038	1.303	Cluster 1
+Ifitm3	-0.013	1.02	Cluster 1
+Cmpk2	-0.078	0.895	Cluster 1
+Dhx58	0.034	0.576	Cluster 1
+Casp8	-0.075	0.51	Cluster 1
+Psma3	0.005	0.389	Cluster 1
+Tdrd7	0.065	0.243	Cluster 1
+Mvb12a	0.013	0.24	Cluster 1
+Il4ra	0.063	0.227	Cluster 1
+Trim12c	0.013	0.217	Cluster 1
